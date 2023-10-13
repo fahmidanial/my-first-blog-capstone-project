@@ -1,0 +1,15 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: #000;
+    color: #fff;
+  }
+  
+  .contact-icons {
+    display: flex;
+    gap: 1rem;
+    cursor: pointer;
+  }
+  
